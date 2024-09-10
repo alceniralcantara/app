@@ -19,3 +19,40 @@
 - Coletar os dados
 - Processar os dados (manipulação, alteração, validação)
 - Exibir os dados
+
+## Escopo e variáveis
+
+- Escopo local
+- Escopo global
+- Escopo de função
+- Escopo de bloco
+- Escopo de módulo
+- Escopo de classe
+- Escopo de parâmetro
+
+- Variáveis
+- Constantes
+
+
+## Tipos de dados
+
+- String (texto): "" ou '' ou ``
+- Number (número): 1, 2, 3, 1.4
+- Boolean (booleano): true, false
+- Array (vetor): []
+- Object (objeto): {}
+- Function (função): function() {}
+
+## Operadores
+
+- Atribuição (=)
+- Concatenação (+)
+- Matemáticos (+, -, *, /, %)
+- Lógicos (&&, ||,!)
+- Adição (+)
+- Subtração (-)
+- Multiplicação (*)
+- Divisão (/)
+- Exponenciação (**)
+- Ternários (?)
+

@@ -1,2 +1,3 @@
-// hello world
-console.log('hello world');
+// Olá, mundo!
+let mensagem = "Olá, mundo!";
+console.log(mensagem);
